@@ -7,4 +7,5 @@
 - `hw_1.2.4 If...else.ipynb` - робота з if, elif та else;
 - `hw_1.3.1-1.3.2 Цикл for.ipynb` - робота з циклами for;
 - `hw_1.3.3 Comprehensions.ipynb` - робота з циклами, перетворення у короткий код умови циклу;
+- `hw_1.3.4 Цикл while.ipynb` - робота з циклом while;
 - 
